@@ -1,0 +1,506 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+}
+body{
+	 background-color: black;
+}
+.MainDiv{
+	    width: 1000px;
+	    height: 1000px;
+	    border: 0px solid red;
+	    margin: auto;
+}
+.row1{
+		width: 1000px;
+		height: 186px;
+		background-image: url('../images/headerbg.jpg');
+}
+.row1Image{
+		border: 0px solid red;
+		float: left;
+		width: 210px;
+		height: 160px;
+		padding-top: 10px;
+		padding-left: 40px;
+}
+.link{
+		text-decoration: none;
+		color: black;
+
+}
+.Header_Content{
+		border: 0px solid red;
+		float: left;
+		font-family: Arial, Helvetica, sans-serif;
+    	color: #00618a;
+    	font-weight: bold;
+    	padding: 50px 35px;
+    	width: 330px;
+    	text-align: center;
+    	font-size: 18px;
+}
+.contact_details{
+		width: 296px;
+		height: 132px;
+		border: 0px solid red;
+		float: right;
+		background-image: url('../images/topcontactbg.png');
+		margin: 20px 45px 0px 0px;
+		background-repeat: no-repeat;
+		font-family: Arial, Helvetica, sans-serif;
+}
+.website{
+		padding-top: 10px;
+		padding-left: 20px;
+		font-size: 24px;
+		font-family: Arial, Helvetica, sans-serif;
+}
+.email{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 24px;
+		padding: 10px 0px;
+		padding-left: 20px;
+		font-weight: bold;
+}
+.number{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 24px;
+		padding-left: 20px;
+		color: white;
+}
+.row2{
+		background-image: url(../images/menubg.jpg);
+		width: 1000px;
+		height: 50px;
+		border: 0px solid red;
+}
+.menu_White{
+		border: 0px solid red;
+		float: left;
+		width: 127px;
+		height: 29px;
+		background-image: url(../images/menuactive.png);
+		margin-top: 6px;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		margin-top: 10px;
+		margin-left: 70px;
+}
+.menu_color{
+		background-image: url(../images/menubackground.png);
+		border: 0px solid red;
+		float: left;
+	  	width: 127px;
+	  	height: 29px;
+	  	margin-top: 6px;
+	  	text-align: center;
+		font-weight: bold;
+		padding-top: 10px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		margin-top: 10px;
+		margin-left: 15px;
+		padding-top: 15px;
+}
+.menu_NotActive{
+		border: 0px solid red;
+		float: left;
+		width: 127px;
+		height: 29px;
+		background-image: url(../images/menubackground.png);
+		margin-top: 6px;
+		text-align: center;
+		font-weight: bold;
+		padding-top: 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		margin-top: 10px;
+		margin-left: 70px;
+}
+.menu_Active{
+		background-image: url(../images/menuactive.png);
+		border: 0px solid red;
+		float: left;
+	  	width: 127px;
+	  	height: 29px;
+	  	margin-top: 6px;
+	  	text-align: center;
+		font-weight: bold;
+		padding-top: 10px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13px;
+		margin-top: 10px;
+		margin-left: 15px;
+		padding-top: 15px;
+}
+.row3{
+		width: 1000px;
+		height: 239px;
+		border: 0px solid blue;
+		margin-top: 10px;
+}
+.left_menu{
+			width: 230px;
+			height: 220px;
+			border: 0px solid red;
+			float: left;
+			margin-left: 15px;
+}
+.Lmenu{
+		 width: 235px;
+		 height: 24px;
+		 background-image: url('../images/leftmenubg.png');
+		 border: 0px solid red;
+		 text-align: center;
+		 font-family: Arial, Helvetica, sans-serif;
+		 font-size: 13px;
+		 background-repeat: no-repeat;
+		 font-weight: bold;
+		 padding-top: 15px;
+		 padding-right:80px;
+}
+.gifImage{
+		width: 728px;
+		height: 239px;	
+		border: 0px solid red;
+		float: left;
+		margin-right: 15px;
+}
+.row4{
+		width: 1000px;
+		height: 195px;
+		border: 0px solid red;
+		margin-top: 20px;
+}
+.iipacademy{
+		width:215px;
+		height: 195px;
+		background-image: url('../images/whybg.jpg');
+		border: 1px solid white;
+		float: left;
+		color: white;
+		font-family: Arial, Helvetica, sans-serif;
+    	font-size: 13px;
+    	margin-left: 15px;
+    	border-radius: 10px;
+    	background-size: contain;
+}
+.heading{
+		padding-top: 20px;
+		padding-bottom: 5px;
+		color: white;
+		font-size: 15px;
+		font-weight: bold;
+		text-align: center;
+		font-family: Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+}
+.iipacademyContent{
+		padding-left: 15px;
+		padding-top: 10px;
+		line-height: 20px;
+		padding-right: 20px;
+}
+.courses{
+		width: 337px;
+		height: 185px;
+		border: 1px solid white;
+		background: #fdc059;
+		float: left;
+		font-family: Arial, Helvetica, sans-serif;
+	    font-size: 13px;
+	    line-height: 25px;
+	    font-weight: bold;
+	    color: #000;
+	    margin-left: 15px;
+	    padding-left: 10px;
+	    padding-top: 10px;
+}
+.courses1{
+		color: white;
+		text-decoration: underline;
+}
+.image{
+		 width: 380px;
+		 height: 195px;
+		 border: 0px solid white;
+		 float: left;
+		 margin-left: 15px;
+}
+.last_menu{
+			width: 1000px;
+			height: 48px;
+			border: 0px solid red;
+			margin-top: 20px;
+}
+.l_menu{
+			width:13px ;
+			height: 48px;
+			border: 0px solid red;
+			background-image: url('../images/footer_left.png');
+			float: left;
+}
+.L_menu1{
+			width:970px ;
+			height: 33px;
+			border: 0px solid red;
+			background-image: url('../images/footer_middle.png');
+			float: left;
+			text-align: center;
+			font-family: Arial, Helvetica, sans-serif;
+    		font-size: 13px;
+    		padding-top: 15px;
+    		font-weight: bold;
+    		word-spacing: 5px;
+}
+.L_menu2{
+			width:15px ;
+			height: 48px;
+			border: 0px solid red;
+			background-image: url('../images/footer_right.png');
+			float: left;
+			background-repeat: no-repeat;
+}
+.row5{
+		width: 1000px;
+		border: 0px solid red;
+		height: 600px;
+		margin-top: 10px;
+}
+.aboutUs{
+		width: 720px;
+		height: 588px;
+		background-color: white;
+		float: left;
+	    padding-top: 10px;
+	    padding-right: 18px;
+}
+.about_content{
+		font-size: 30px;
+		font-weight: bold;
+		padding: 10px 18px;
+}
+.about_content1{
+		font-size: 15px;
+		padding: 10px 18px;
+		color: #5b5b5b;
+	    font-family: Arial, Helvetica, sans-serif;
+	    text-align: justify;
+	    line-height: 20px;
+}
+.iip_content{
+		font-size: 20px;
+		padding: 10px 15px;
+		font-weight: bold;
+}
+.iip_content1{
+	 	font-size: 15px;
+	 	font-family: Arial, Helvetica, sans-serif;
+	    text-align: justify;
+	    line-height: 20px;
+	    color: #5b5b5b;
+	 	padding-left: 15px;
+}
+.row6{
+		width: 1000px;
+		border: 0px solid red;
+		height: 250px;
+		margin-top: 10px;
+}
+.Courses{
+	 width: 740px;
+	 height: 250px;
+	 float: left;
+	 border: 0px solid red;
+	 background-color: white;
+	 margin-right: 10px;
+}
+.Courses_heading{
+        font-size: 32px;
+        font-weight: bold;
+        padding-top: 20px;
+        padding-left: 15px;
+        padding-bottom: 20px;
+}
+.Courses_headingContent{
+		padding-left: 15px;
+		font-family: Arial, Helvetica, sans-serif;
+	    text-align: justify;
+	    line-height: 20px;
+	  	color: #5b5b5b;
+}
+.row7{
+		width:1000px;
+		height: 650px;
+		border: 0px solid red;
+		margin-top: 10px;
+}
+.gallery_img{
+		border: 0px solid red;
+		width: 740px;
+		height: 650px;
+		float: left;
+		background-color: white;
+		margin-right: 10px;
+}
+.gallery_img1{
+	width: 200px;
+	 float: left;
+	 padding:20px;
+}
+.gallery_Heading{
+	font-size: 32px;
+	padding: 20px 0px 0px 20px;
+	font-weight: bolder;
+}
+.row8{
+		width:1000px;
+		height: 670px;
+		border: 0px solid red;
+		margin-top: 10px;
+}
+.Enquiry{
+		border: 0px solid red;
+		width: 740px;
+		height: 670px;
+		float: left;
+		background-color: white;
+		margin-right: 10px;
+}
+.Enquiry_heading{
+		font-size: 32px;
+		padding: 20px 0px 0px 20px;
+		font-weight: bolder;
+
+}
+.row9{
+		width:1000px;
+		height: 300px;
+		border: 0px solid red;
+		margin-top: 10px;
+}
+.Contact{
+	 width: 740px;
+	 height: 300px;
+	 float: left;
+	 border: 0px solid red;
+	 background-color: white;
+	 margin-right: 10px;
+}
+.contact_heading{
+		font-size: 32px;
+		padding: 20px 0px 0px 20px;
+		font-weight: bolder;
+}
+.contact_content{
+	color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 40px;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.contact_content1{
+    text-align: justify;
+    line-height: 40px;
+    font-size: 15px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+	width: 360px;
+	height: 580px;
+	margin-left: 20px;
+	margin-top: 20px;
+	border: 0px solid red;
+	background: #FFF;
+    color: #5b5b5b;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 13px;
+}
+.Gender{
+	width: 100px ;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.radio{
+	width: 200px;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.Name{
+	width: 100px ;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.Name_text{
+	width: 200px;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.heading_drop{
+	width: 100px;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.dropDown{
+	width: 200px;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.area{
+	width: 100px;
+	height: 20px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.Text_area{
+	width: 200px;
+	height: 100px;
+	border: 0px solid red;
+	float: left;
+	margin-bottom: 20px;
+}
+.submit{
+	width: 70px;
+	height:30px;
+	border: 0px solid red;
+	background: #09F;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding:10px 10px 30px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.text{
+	width:200px;
+	height: 20px;
+}
+.area1{
+	width: 200px;
+	height:100px;
+	resize: none;
+}
